@@ -19,6 +19,8 @@ product.save((err, document) => {
 //otro comentario
 //mira estoy  separandolas cosas 
 // y aprendiendo a hacer  mis cosas yo solo 
+//estoy en la rama de marco
+
 
 
 console.log(product);
