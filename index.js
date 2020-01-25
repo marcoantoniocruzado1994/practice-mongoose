@@ -17,6 +17,8 @@ product.save((err, document) => {
 
 //hola weon que haces
 //otro comentario
+//mira estoy  separandolas cosas 
+// y aprendiendo a hacer  mis cosas yo solo 
 
 
 console.log(product);
